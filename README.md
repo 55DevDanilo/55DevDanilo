@@ -39,3 +39,7 @@ Since 2021, I have been diving into the vast and exciting world of programming. 
 - I am dedicating time to studying **English**, recognizing its importance for connecting with professionals worldwide and accessing global resources in the tech field.
 
 🔍 I am looking for my **first professional opportunity** to learn in practice, collaborate with other professionals, and apply the knowledge I have gained. If you are interested in exchanging ideas or exploring potential collaborations, feel free to reach out!
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=55DevDanilo&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![55DevDanilo](https://github-readme-stats.vercel.app/api/top-langs/?username=55DevDanilo&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
