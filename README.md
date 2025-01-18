@@ -44,5 +44,12 @@ Since 2021, I have been diving into the vast and exciting world of programming. 
 [![card](https://github-readme-stats.vercel.app/api?username=55DevDanilo&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![55DevDanilo](https://github-readme-stats.vercel.app/api/top-langs/?username=55DevDanilo&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/danilo-amorim-sl](https://www.linkedin.com/in/danilo-amorim-sl/)/" alt="LinkedIn"/></a>
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+)![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)
+![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
