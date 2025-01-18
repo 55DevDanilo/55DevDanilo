@@ -43,3 +43,6 @@ Since 2021, I have been diving into the vast and exciting world of programming. 
 
 [![card](https://github-readme-stats.vercel.app/api?username=55DevDanilo&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![55DevDanilo](https://github-readme-stats.vercel.app/api/top-langs/?username=55DevDanilo&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-amorim-sl/" alt="LinkedIn"/></a>
