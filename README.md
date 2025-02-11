@@ -1,26 +1,4 @@
-# Sobre Mim / About Me 🌟
-
-## Português 🇧🇷
-
-Desde 2021, venho mergulhando no vasto e emocionante universo da programação. Movido pela paixão em resolver problemas e criar soluções inovadoras, tenho me dedicado arduamente ao estudo e ao aprimoramento das habilidades necessárias para me tornar um desenvolvedor completo.
-
-📚 **Atualmente**, estou focado em meu curso de **Análise e Desenvolvimento de Sistemas**, onde exploro os fundamentos teóricos e práticos essenciais para o desenvolvimento de software de qualidade.
-
-💡 **Áreas de Estudo e Interesses**:
-- **C#**: Estou aprofundando meu conhecimento em C# e .NET para desenvolver aplicativos robustos e escaláveis para diversas plataformas.
-- **PHP**: Estou ampliando minha experiência em desenvolvimento web com PHP, explorando suas possibilidades para criar aplicações dinâmicas e interativas.
-- **Python**: Fascinado pela simplicidade e versatilidade de Python, tenho me dedicado a explorar suas aplicações em áreas como desenvolvimento web, análise de dados e automação.
-- **MySQL**: Estudo o gerenciamento de bancos de dados MySQL para aprimorar a eficiência e segurança no armazenamento e manipulação de dados.
-- **HTML & CSS**: Consolido meu conhecimento em desenvolvimento front-end, criando interfaces web modernas e atrativas.
-
-📘 **Outras Áreas de Interesse**:
-- Aprimoro meus conhecimentos em **Git**, uma ferramenta essencial para o desenvolvimento colaborativo, facilitando o gerenciamento de projetos e a colaboração com outros desenvolvedores.
-- Dedico tempo ao estudo de **Inglês**, reconhecendo a importância dessa habilidade para me conectar globalmente e acessar recursos internacionais na área de tecnologia.
-
-🔍 Estou em busca da **minha primeira oportunidade profissional** para aprender na prática, colaborar com outros profissionais e aplicar os conhecimentos adquiridos. Caso tenha interesse em trocar ideias ou explorar possíveis colaborações, sinta-se à vontade para entrar em contato!
-
----
-
+# About Me / Sobre Mim  🌟
 ## English 🇺🇸
 
 Since 2021, I have been diving into the vast and exciting world of programming. Driven by a passion for solving problems and creating innovative solutions, I have been dedicating myself to studying and honing the skills needed to become a well-rounded developer.
@@ -40,6 +18,26 @@ Since 2021, I have been diving into the vast and exciting world of programming. 
 
 🔍 I am looking for my **first professional opportunity** to learn in practice, collaborate with other professionals, and apply the knowledge I have gained. If you are interested in exchanging ideas or exploring potential collaborations, feel free to reach out!
 
+---
+
+## Português 🇧🇷
+
+Desde 2021, venho mergulhando no vasto e emocionante universo da programação. Movido pela paixão em resolver problemas e criar soluções inovadoras, tenho me dedicado arduamente ao estudo e ao aprimoramento das habilidades necessárias para me tornar um desenvolvedor completo.
+
+📚 **Atualmente**, estou focado em meu curso de **Análise e Desenvolvimento de Sistemas**, onde exploro os fundamentos teóricos e práticos essenciais para o desenvolvimento de software de qualidade.
+
+💡 **Áreas de Estudo e Interesses**:
+- **C#**: Estou aprofundando meu conhecimento em C# e .NET para desenvolver aplicativos robustos e escaláveis para diversas plataformas.
+- **PHP**: Estou ampliando minha experiência em desenvolvimento web com PHP, explorando suas possibilidades para criar aplicações dinâmicas e interativas.
+- **Python**: Fascinado pela simplicidade e versatilidade de Python, tenho me dedicado a explorar suas aplicações em áreas como desenvolvimento web, análise de dados e automação.
+- **MySQL**: Estudo o gerenciamento de bancos de dados MySQL para aprimorar a eficiência e segurança no armazenamento e manipulação de dados.
+- **HTML & CSS**: Consolido meu conhecimento em desenvolvimento front-end, criando interfaces web modernas e atrativas.
+
+📘 **Outras Áreas de Interesse**:
+- Aprimoro meus conhecimentos em **Git**, uma ferramenta essencial para o desenvolvimento colaborativo, facilitando o gerenciamento de projetos e a colaboração com outros desenvolvedores.
+- Dedico tempo ao estudo de **Inglês**, reconhecendo a importância dessa habilidade para me conectar globalmente e acessar recursos internacionais na área de tecnologia.
+
+🔍 Estou em busca da **minha primeira oportunidade profissional** para aprender na prática, colaborar com outros profissionais e aplicar os conhecimentos adquiridos. Caso tenha interesse em trocar ideias ou explorar possíveis colaborações, sinta-se à vontade para entrar em contato!
 
 
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
