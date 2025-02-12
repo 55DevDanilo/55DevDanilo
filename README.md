@@ -47,4 +47,4 @@ Desde 2021, estou imerso no dinâmico mundo do **desenvolvimento web**, com foco
 
 
 
-[![55DevDanilo](https://github-readme-stats.vercel.app/api/top-langs/?username=55DevDanilo&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
