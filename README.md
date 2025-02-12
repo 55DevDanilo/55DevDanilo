@@ -5,11 +5,13 @@
 Since 2021, I have been immersed in the dynamic world of **web development**, focusing on **PHP** and its frameworks to build modern and scalable applications. Currently, I am pursuing a **Systems Analysis and Development** degree, enhancing my skills in both **front-end and back-end** technologies.  
 
 ### 💡 Key Skills & Interests  
-- **PHP & Frameworks (Laravel, Symfony)** – Developing robust web applications.  
-- **HTML5 & CSS3** – Crafting semantic and responsive web designs.  
-- **JavaScript** – Adding interactivity and dynamic features to web pages.  
-- **Bootstrap** – Utilizing responsive design principles for mobile-friendly interfaces.  
-- **MySQL** – Designing and managing relational databases.  
+- **PHP & Frameworks (Laravel, Symfony, Cogniter, API Slim)** – Developing robust web applications.  
+- **HTML5, CSS3 & SASS** – Crafting semantic, responsive, and maintainable web designs.  
+- **JavaScript, jQuery & AJAX** – Adding interactivity and real-time data handling to web applications.  
+- **Bootstrap & Ionic** – Creating mobile-first and cross-platform applications.  
+- **MySQL** – Designing and managing relational databases efficiently.  
+- **WordPress** – Developing and customizing themes and plugins.  
+- **Apache & Composer** – Configuring web servers and managing dependencies.  
 - **Git** – Version control for efficient project collaboration.  
 
 ### 📘 Future Learning Goals  
@@ -25,11 +27,13 @@ Since 2021, I have been immersed in the dynamic world of **web development**, fo
 Desde 2021, estou imerso no dinâmico mundo do **desenvolvimento web**, com foco em **PHP** e seus frameworks para construir aplicações modernas e escaláveis. Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprimorando minhas habilidades em tecnologias de **front-end e back-end**.  
 
 ### 💡 Áreas de Estudo e Interesses  
-- **PHP & Frameworks (Laravel, Symfony)** – Desenvolvimento de aplicações web robustas.  
-- **HTML5 & CSS3** – Criação de designs web semânticos e responsivos.  
-- **JavaScript** – Adicionando interatividade e recursos dinâmicos às páginas web.  
-- **Bootstrap** – Utilização de princípios de design responsivo para interfaces amigáveis a dispositivos móveis.  
-- **MySQL** – Design e gerenciamento de bancos de dados relacionais.  
+- **PHP & Frameworks (Laravel, Symfony, Cogniter, API Slim)** – Desenvolvimento de aplicações web robustas.  
+- **HTML5, CSS3 & SASS** – Criação de designs web semânticos, responsivos e escaláveis.  
+- **JavaScript, jQuery & AJAX** – Implementação de interatividade e manipulação de dados em tempo real.  
+- **Bootstrap & Ionic** – Desenvolvimento de aplicações mobile-first e cross-platform.  
+- **MySQL** – Modelagem, otimização e segurança de bancos de dados.  
+- **WordPress** – Customização e desenvolvimento de temas e plugins.  
+- **Apache & Composer** – Configuração de servidores web e gerenciamento de dependências.  
 - **Git** – Controle de versão para colaboração eficiente em projetos.  
 
 ### 📘 Objetivos de Aprendizado Futuro  
@@ -37,11 +41,4 @@ Desde 2021, estou imerso no dinâmico mundo do **desenvolvimento web**, com foco
 - **C# & .NET** – Aprofundando no desenvolvimento de aplicações em nível empresarial.  
 
 🔍 Estou em busca da minha **primeira oportunidade profissional** em desenvolvimento web, ansioso para colaborar, aprender e aplicar meus conhecimentos em projetos reais. Vamos nos conectar!  
-
-
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
