@@ -1,4 +1,4 @@
-🌟 About Me / Sobre Mim — VERSÃO ATUALIZADA
+🌟 About Me / Sobre Mim  
 🇺🇸 English
 
 Since 2021, I have been dedicated to building a solid and versatile foundation in web and software development, working with both PHP and Java ecosystems. Today, I am advancing my skills in backend development with Java, focusing on Spring Boot, security (JWT + Spring Security), and the construction of scalable and structured systems — including my current project, a Hospital Management System (SGHSS).
