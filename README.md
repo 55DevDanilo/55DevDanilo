@@ -1,50 +1,58 @@
-# 🌟 About Me / Sobre Mim  
+🌟 About Me / Sobre Mim — VERSÃO ATUALIZADA
+🇺🇸 English
 
-## 🇺🇸 English  
+Since 2021, I have been dedicated to building a solid and versatile foundation in web and software development, working with both PHP and Java ecosystems. Today, I am advancing my skills in backend development with Java, focusing on Spring Boot, security (JWT + Spring Security), and the construction of scalable and structured systems — including my current project, a Hospital Management System (SGHSS).
 
-Since 2021, I have been immersed in the dynamic world of **web development**, focusing on **PHP** and its frameworks to build modern and scalable applications. Currently, I am pursuing a **Systems Analysis and Development** degree, enhancing my skills in both **front-end and back-end** technologies.  
+Alongside Java, I continue refining my knowledge in PHP, its frameworks, and modern web technologies, aiming to develop reliable, clean, and maintainable applications.
 
-### 💡 Key Skills & Interests  
-- **PHP & Frameworks (Laravel, Symfony, Cogniter, API Slim)** – Developing robust web applications.  
-- **HTML5, CSS3 & SASS** – Crafting semantic, responsive, and maintainable web designs.  
-- **JavaScript, jQuery & AJAX** – Adding interactivity and real-time data handling to web applications.  
-- **Bootstrap & Ionic** – Creating mobile-first and cross-platform applications.  
-- **MySQL** – Designing and managing relational databases efficiently.  
-- **WordPress** – Developing and customizing themes and plugins.  
-- **Apache & Composer** – Configuring web servers and managing dependencies.  
-- **Git** – Version control for efficient project collaboration.  
+💡 Key Skills & Technologies
 
-### 📘 Future Learning Goals  
-- **Python** – Exploring its applications in web development and data analysis.  
-- **C# & .NET** – Delving into enterprise-level application development.  
+Java (Backend) – Spring Boot, Spring Security, JWT authentication, MVC, OOP, interfaces, design patterns.
+PHP & Frameworks (Laravel,Slim API) – Robust and scalable web applications.
+HTML5, CSS3, SASS – Semantic, responsive, and optimized UI development.
+JavaScript, jQuery & AJAX – Dynamic interfaces and real-time application behavior.
+MySQL – Data modeling, optimization, and secure database interactions.
+Bootstrap & Ionic – Mobile-first and cross-platform UI development.
+WordPress – Theme development, plugin customization, and PHP integrations.
+Apache, .htaccess & Composer – Server configuration, rewrites, routing rules, and dependency management.
+Git & GitHub – Version control and collaborative workflows.
 
-🔍 I am seeking my **first professional opportunity** in web development, eager to collaborate, learn, and apply my knowledge to real-world projects. Let's connect!  
+📘 Current Focus & Learning Path
 
----
+Deepening expertise in Java backend (Spring ecosystem).
+Security and authentication (JWT, roles, permissions).
+Advanced PHP + modern application structures.
+Python and C# as upcoming languages to widen my technical stack.
+Improving my English for international collaboration and technical growth.
 
-## 🇧🇷 Português  
+🔍 I am seeking opportunities in backend development, eager to contribute to real-world projects while continuously improving my technical skills.
 
-Desde 2021, estou imerso no dinâmico mundo do **desenvolvimento web**, com foco em **PHP** e seus frameworks para construir aplicações modernas e escaláveis. Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprimorando minhas habilidades em tecnologias de **front-end e back-end**.  
+🇧🇷 Português
 
-### 💡 Áreas de Estudo e Interesses  
-- **PHP & Frameworks (Laravel, Symfony, Cogniter, API Slim)** – Desenvolvimento de aplicações web robustas.  
-- **HTML5, CSS3 & SASS** – Criação de designs web semânticos, responsivos e escaláveis.  
-- **JavaScript, jQuery & AJAX** – Implementação de interatividade e manipulação de dados em tempo real.  
-- **Bootstrap & Ionic** – Desenvolvimento de aplicações mobile-first e cross-platform.  
-- **MySQL** – Modelagem, otimização e segurança de bancos de dados.  
-- **WordPress** – Customização e desenvolvimento de temas e plugins.  
-- **Apache & Composer** – Configuração de servidores web e gerenciamento de dependências.  
-- **Git** – Controle de versão para colaboração eficiente em projetos.  
+Desde 2021, venho construindo uma base sólida no desenvolvimento de software, atuando tanto no ecossistema PHP quanto no Java. Atualmente, estou avançando no backend com Java, aprofundando-me em Spring Boot, JWT com Spring Security, arquitetura backend, interfaces, padrões de projeto e construção de sistemas escaláveis — como meu projeto atual, um Sistema de Gestão Hospitalar (SGHSS).
 
-### 📘 Objetivos de Aprendizado Futuro  
-- **Python** – Explorando suas aplicações em desenvolvimento web e análise de dados.  
-- **C# & .NET** – Aprofundando no desenvolvimento de aplicações em nível empresarial.  
+Paralelamente, continuo evoluindo no desenvolvimento web com PHP e tecnologias modernas para criar aplicações limpas, seguras e de alta performance.
 
-🔍 Estou em busca da minha **primeira oportunidade profissional** em desenvolvimento web, ansioso para colaborar, aprender e aplicar meus conhecimentos em projetos reais. Vamos nos conectar!  
+💡 Tecnologias & Competências
 
+Java (Backend) – Spring Boot, Spring Security, JWT, OOP, interfaces, padrões de projeto e modelagem de sistemas.
+PHP & Frameworks (Laravel,Slim API) – Desenvolvimento de aplicações estruturadas e escaláveis.
+HTML5, CSS3, SASS – Interfaces semânticas, responsivas e organizadas.
+JavaScript, jQuery & AJAX – Interatividade, requisições assíncronas e aplicações dinâmicas.
+MySQL – Modelagem de dados, queries otimizadas e boas práticas de segurança.
+Bootstrap & Ionic – Desenvolvimento mobile-first e cross-platform.
+WordPress – Desenvolvimento e personalização de temas e plugins.
+Apache, .htaccess & Composer – Regras de rewrite, rotas, performance e dependências.
+Git & GitHub – Versionamento, boas práticas e organização de projetos.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+📘 Foco Atual & Próximos Passos
 
+Aprofundamento em Java backend (Spring, segurança, APIs, camadas).
+Segurança de aplicações com JWT e boas práticas.
+Estrutura avançada em PHP para APIs e aplicações modernas.
 
+Estudos futuros: Python e C#.
 
+Aprimoramento contínuo do inglês para leitura técnica e carreira internacional.
 
+🔍 Busco oportunidades como desenvolvedor backend, com disposição para aprender, evoluir e entregar valor real em projetos profissionais.
