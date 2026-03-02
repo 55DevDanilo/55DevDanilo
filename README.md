@@ -1,4 +1,4 @@
-# 🌟 About Me / Sobre Mim — Atualizado
+# 🌟 About Me / Sobre Mim  
 
 ## 🇺🇸 English  
 
