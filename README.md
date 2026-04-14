@@ -48,7 +48,6 @@ Paralelamente, continuo evoluindo com PHP e tecnologias modernas para criar apli
 ### 📘 Foco Atual & Próximos Passos  
 - Aprofundamento em **Java backend**  
 - Segurança com **JWT + Spring Security**  
-- Estruturas avançadas em PHP  
 - Estudar **Python** e **C#** futuramente  
 - Melhorar continuamente o inglês técnico  
 
